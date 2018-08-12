@@ -19,3 +19,7 @@ set whichwrap+=<,>,[,]
 set tabstop=2
 set shiftwidth=2
 set expandtab
+
+" Set auto indentation and use C indentation
+set autoindent
+set cindent
