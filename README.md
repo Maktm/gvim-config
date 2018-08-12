@@ -1,4 +1,4 @@
 # vim-config
 Vim Configuration
 
-![Screenshot](https://i.imgur.com/ZwQqAMA.png)
+![Screenshot](https://i.imgur.com/pxwnnZn.png)
