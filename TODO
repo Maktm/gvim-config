@@ -1,0 +1,7 @@
+* Fix the cursor looking like it's not on the last char in command mode
+* Add the following shortcuts/mappings:
+	* Ctrl+S to save
+	* Ctrl+SHIFT+S to save as
+	* Ctrl+C, CTRL+V for copy and paste
+	* Ctrl+BKSPC for deleting one word before
+* Make Ctrl+C/Ctrl+V copy/paste to system keyboard
