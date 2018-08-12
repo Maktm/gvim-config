@@ -20,6 +20,7 @@ hi Function   cterm=NONE ctermfg=LightGreen   	gui=NONE guifg=#b7e2f2
 hi Statement  cterm=NONE ctermfg=White	     	gui=NONE guifg=#3986d4	     	
 hi PreProc    cterm=NONE ctermfg=Yellow		gui=NONE guifg=#9a9a9a 	
 hi Type	      cterm=NONE ctermfg=LightGreen	gui=NONE guifg=#4dc79f 		
-hi Special    cterm=NONE ctermfg=LightRed    	gui=NONE guifg=#ffff00    	
+hi Special    cterm=NONE ctermfg=LightRed    	gui=NONE guifg=#c8c8c8    	
 hi Delimiter  cterm=NONE ctermfg=Yellow    	gui=NONE guifg=#d67341    	
-hi NonText    cterm=NONE ctermfg=Yellow     gui=NONE guifg=#3986d4
+hi NonText    cterm=NONE ctermfg=Grey     gui=NONE guifg=#c8c8c8
+hi LineNr     cterm=NONE ctermfg=Grey     guifg=#c8c8c8

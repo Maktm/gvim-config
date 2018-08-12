@@ -23,3 +23,6 @@ set expandtab
 " Set auto indentation and use C indentation
 set autoindent
 set cindent
+
+" Show line numbers
+set number
